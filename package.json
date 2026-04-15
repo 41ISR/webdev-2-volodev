@@ -1,0 +1,28 @@
+{
+  "name": "webdev-2-volodev",
+  "version": "1.0.0",
+  "description": "Задание выполняется в ветке `wip` в форке `webdev-lab2-{ваша_фамилия}`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/41ISR/webdev-2-volodev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/41ISR/webdev-2-volodev/issues"
+  },
+  "homepage": "https://github.com/41ISR/webdev-2-volodev#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "prettier": "^3.8.3"
+  }
+}
